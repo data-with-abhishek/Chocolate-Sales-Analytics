@@ -1,3 +1,6 @@
+-- This query performs RFM segmentation and analyzes revenue contribution
+-- across customer segments.
+
 -- ============================================================
 -- RFM Analysis (Recency, Frequency, Monetary)
 -- + Customer Lifetime Value (Historical CLV)
