@@ -92,11 +92,6 @@ The dataset contains transaction-level sales data including product sales, custo
 * Supports better customer segmentation strategy
 * Improves decision-making using data-driven insights
 
----
-
-## 🚀 Project Status
-
-In progress — additional insights and optimizations will be added.
 
 ---
 
