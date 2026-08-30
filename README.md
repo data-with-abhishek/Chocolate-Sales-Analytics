@@ -1,4 +1,4 @@
-# 🍫 Chocolate Sales Analytics (SQL Project)
+# 🍫 Sales Analytics (SQL Project)
 
 ## 📌 Overview
 
